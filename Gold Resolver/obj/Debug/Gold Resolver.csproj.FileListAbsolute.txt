@@ -1,0 +1,90 @@
+C:\Users\oldmo\Desktop\pc\Games\TOUT\dev\Essaye\Gold Resolver\Gold Resolver\Gold Resolver\bin\Debug\Gold Resolver.exe.config
+C:\Users\oldmo\Desktop\pc\Games\TOUT\dev\Essaye\Gold Resolver\Gold Resolver\Gold Resolver\bin\Debug\Gold Resolver.exe
+C:\Users\oldmo\Desktop\pc\Games\TOUT\dev\Essaye\Gold Resolver\Gold Resolver\Gold Resolver\bin\Debug\Gold Resolver.pdb
+C:\Users\oldmo\Desktop\pc\Games\TOUT\dev\Essaye\Gold Resolver\Gold Resolver\Gold Resolver\obj\Debug\Gold Resolver.csprojAssemblyReference.cache
+C:\Users\oldmo\Desktop\pc\Games\TOUT\dev\Essaye\Gold Resolver\Gold Resolver\Gold Resolver\obj\Debug\Gold_Resolver.Form1.resources
+C:\Users\oldmo\Desktop\pc\Games\TOUT\dev\Essaye\Gold Resolver\Gold Resolver\Gold Resolver\obj\Debug\Gold_Resolver.Properties.Resources.resources
+C:\Users\oldmo\Desktop\pc\Games\TOUT\dev\Essaye\Gold Resolver\Gold Resolver\Gold Resolver\obj\Debug\Gold Resolver.csproj.GenerateResource.cache
+C:\Users\oldmo\Desktop\pc\Games\TOUT\dev\Essaye\Gold Resolver\Gold Resolver\Gold Resolver\obj\Debug\Gold Resolver.csproj.CoreCompileInputs.cache
+C:\Users\oldmo\Desktop\pc\Games\TOUT\dev\Essaye\Gold Resolver\Gold Resolver\Gold Resolver\obj\Debug\Gold Resolver.exe
+C:\Users\oldmo\Desktop\pc\Games\TOUT\dev\Essaye\Gold Resolver\Gold Resolver\Gold Resolver\obj\Debug\Gold Resolver.pdb
+C:\Users\oldmo\Desktop\pc\Games\TOUT\dev\Essaye\Gold Resolver\Gold Resolver\Gold Resolver\obj\Debug\Gold_Resolver.skypetoip.resources
+C:\Users\oldmo\Desktop\pc\Games\TOUT\dev\Essaye\Gold Resolver\Gold Resolver\Gold Resolver\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\oldmo\Desktop\pc\Games\TOUT\dev\Essaye\Gold Resolver\Gold Resolver\Gold Resolver\obj\Debug\Gold Resolver.csproj.CopyComplete
+C:\Users\oldmo\Desktop\pc\Games\TOUT\dev\Essaye\Gold Resolver\Gold Resolver\Gold Resolver\bin\Debug\AlphaBlendTextBox.dll
+C:\Users\oldmo\Desktop\pc\Games\TOUT\dev\Essaye\Gold Resolver\Gold Resolver\Gold Resolver\bin\Debug\theme.dll
+C:\Users\oldmo\Desktop\pc\Games\TOUT\dev\Essaye\Gold Resolver\Gold Resolver\Gold Resolver\obj\Debug\Gold_Resolver.iptoskype.resources
+C:\Users\oldmo\Desktop\pc\Games\TOUT\dev\Essaye\Gold Resolver\Gold Resolver\Gold Resolver\obj\Debug\Gold_Resolver.emailtoskype.resources
+C:\Users\oldmo\Desktop\pc\Games\TOUT\dev\Essaye\Gold Resolver\Gold Resolver\Gold Resolver\obj\Debug\Gold_Resolver.DNSResolver.resources
+C:\Users\oldmo\Desktop\pc\Games\TOUT\dev\Essaye\Gold Resolver\Gold Resolver\Gold Resolver\obj\Debug\Gold_Resolver.CloudFlareResolver.resources
+C:\Users\oldmo\Desktop\pc\Games\TOUT\dev\Essaye\Gold Resolver\Gold Resolver\Gold Resolver\obj\Debug\Gold_Resolver.WebsiteHeaders.resources
+C:\Users\oldmo\Desktop\pc\Games\TOUT\dev\Essaye\Gold Resolver\Gold Resolver\Gold Resolver\obj\Debug\Gold_Resolver.Resolvedatabase.resources
+C:\Users\oldmo\Desktop\pc\Games\TOUT\dev\Essaye\Gold Resolver\Gold Resolver\Gold Resolver\obj\Debug\Gold_Resolver.ipgeo.resources
+C:\Users\oldmo\Desktop\pc\Games\TOUT\dev\Essaye\Gold Resolver\Gold Resolver\Gold Resolver\obj\Debug\Gold_Resolver.iplogger.resources
+C:\Users\oldmo\Desktop\pc\Games\TOUT\dev\Essaye\Gold Resolver\Gold Resolver\Gold Resolver\obj\Debug\Gold_Resolver.emailchecker.resources
+C:\Users\oldmo\Desktop\pc\Games\TOUT\dev\Essaye\Gold Resolver\Gold Resolver\Gold Resolver\obj\Debug\Gold_Resolver.website.resources
+C:\Users\oldmo\Desktop\pc\Games\TOUT\dev\Essaye\Gold Resolver\Gold Resolver\Gold Resolver\obj\Debug\Gold_Resolver.websitepetit.resources
+C:\Users\oldmo\Desktop\pc\Games\TOUT\dev\Essaye\Gold Resolver\Gold Resolver\Gold Resolver\obj\Debug\Gold_Resolver.userinfosform.resources
+C:\Users\oldmo\Desktop\pc\Games\TOUT\dev\Essaye\Gold Resolver\Gold Resolver\Gold Resolver\obj\Debug\Gold_Resolver.plan.resources
+C:\Users\oldmo\Desktop\pc\Games\TOUT\dev\Essaye\Gold Resolver\Gold Resolver\Gold Resolver\obj\Debug\Gold_Resolver.questionform.resources
+C:\Users\oldmo\Desktop\pc\Games\TOUT\dev\Essaye\Gold Resolver\Gold Resolver\Gold Resolver\obj\Debug\Gold_Resolver.paneldefaut.resources
+C:\Users\oldmo\Desktop\pc\Games\TOUT\dev\Essaye\Gold Resolver\Gold Resolver\Gold Resolver\obj\Debug\Gold Resolver.TrustInfo.xml
+C:\Users\oldmo\Desktop\pc\Games\TOUT\dev\Essaye\Gold Resolver\Gold Resolver\Gold Resolver\bin\Debug\Gold Resolver.exe.manifest
+C:\Users\oldmo\Desktop\pc\Games\TOUT\dev\Essaye\Gold Resolver\Gold Resolver\Gold Resolver\bin\Debug\Gold Resolver.application
+C:\Users\oldmo\Desktop\pc\Games\TOUT\dev\Essaye\Gold Resolver\Gold Resolver\Gold Resolver\obj\Debug\Gold Resolver.exe.manifest
+C:\Users\oldmo\Desktop\pc\Games\TOUT\dev\Essaye\Gold Resolver\Gold Resolver\Gold Resolver\obj\Debug\Gold Resolver.application
+D:\Fichier\Development\Projet VS\Csharp\C\Gold Resolver\Gold Resolver\Gold Resolver\bin\Debug\Gold Resolver.exe.config
+D:\Fichier\Development\Projet VS\Csharp\C\Gold Resolver\Gold Resolver\Gold Resolver\bin\Debug\Gold Resolver.exe.manifest
+D:\Fichier\Development\Projet VS\Csharp\C\Gold Resolver\Gold Resolver\Gold Resolver\bin\Debug\Gold Resolver.application
+D:\Fichier\Development\Projet VS\Csharp\C\Gold Resolver\Gold Resolver\Gold Resolver\bin\Debug\Gold Resolver.exe
+D:\Fichier\Development\Projet VS\Csharp\C\Gold Resolver\Gold Resolver\Gold Resolver\bin\Debug\Gold Resolver.pdb
+D:\Fichier\Development\Projet VS\Csharp\C\Gold Resolver\Gold Resolver\Gold Resolver\obj\Debug\Gold Resolver.csprojAssemblyReference.cache
+D:\Fichier\Development\Projet VS\Csharp\C\Gold Resolver\Gold Resolver\Gold Resolver\obj\Debug\Gold_Resolver.CloudFlareResolver.resources
+D:\Fichier\Development\Projet VS\Csharp\C\Gold Resolver\Gold Resolver\Gold Resolver\obj\Debug\Gold_Resolver.DNSResolver.resources
+D:\Fichier\Development\Projet VS\Csharp\C\Gold Resolver\Gold Resolver\Gold Resolver\obj\Debug\Gold_Resolver.emailchecker.resources
+D:\Fichier\Development\Projet VS\Csharp\C\Gold Resolver\Gold Resolver\Gold Resolver\obj\Debug\Gold_Resolver.emailtoskype.resources
+D:\Fichier\Development\Projet VS\Csharp\C\Gold Resolver\Gold Resolver\Gold Resolver\obj\Debug\Gold_Resolver.Form1.resources
+D:\Fichier\Development\Projet VS\Csharp\C\Gold Resolver\Gold Resolver\Gold Resolver\obj\Debug\Gold_Resolver.ipgeo.resources
+D:\Fichier\Development\Projet VS\Csharp\C\Gold Resolver\Gold Resolver\Gold Resolver\obj\Debug\Gold_Resolver.iplogger.resources
+D:\Fichier\Development\Projet VS\Csharp\C\Gold Resolver\Gold Resolver\Gold Resolver\obj\Debug\Gold_Resolver.iptoskype.resources
+D:\Fichier\Development\Projet VS\Csharp\C\Gold Resolver\Gold Resolver\Gold Resolver\obj\Debug\Gold_Resolver.paneldefaut.resources
+D:\Fichier\Development\Projet VS\Csharp\C\Gold Resolver\Gold Resolver\Gold Resolver\obj\Debug\Gold_Resolver.plan.resources
+D:\Fichier\Development\Projet VS\Csharp\C\Gold Resolver\Gold Resolver\Gold Resolver\obj\Debug\Gold_Resolver.Properties.Resources.resources
+D:\Fichier\Development\Projet VS\Csharp\C\Gold Resolver\Gold Resolver\Gold Resolver\obj\Debug\Gold_Resolver.questionform.resources
+D:\Fichier\Development\Projet VS\Csharp\C\Gold Resolver\Gold Resolver\Gold Resolver\obj\Debug\Gold_Resolver.Resolvedatabase.resources
+D:\Fichier\Development\Projet VS\Csharp\C\Gold Resolver\Gold Resolver\Gold Resolver\obj\Debug\Gold_Resolver.skypetoip.resources
+D:\Fichier\Development\Projet VS\Csharp\C\Gold Resolver\Gold Resolver\Gold Resolver\obj\Debug\Gold_Resolver.userinfosform.resources
+D:\Fichier\Development\Projet VS\Csharp\C\Gold Resolver\Gold Resolver\Gold Resolver\obj\Debug\Gold_Resolver.website.resources
+D:\Fichier\Development\Projet VS\Csharp\C\Gold Resolver\Gold Resolver\Gold Resolver\obj\Debug\Gold_Resolver.WebsiteHeaders.resources
+D:\Fichier\Development\Projet VS\Csharp\C\Gold Resolver\Gold Resolver\Gold Resolver\obj\Debug\Gold_Resolver.websitepetit.resources
+D:\Fichier\Development\Projet VS\Csharp\C\Gold Resolver\Gold Resolver\Gold Resolver\obj\Debug\Gold Resolver.csproj.GenerateResource.cache
+D:\Fichier\Development\Projet VS\Csharp\C\Gold Resolver\Gold Resolver\Gold Resolver\obj\Debug\Gold Resolver.csproj.CoreCompileInputs.cache
+D:\Fichier\Development\Projet VS\Csharp\C\Gold Resolver\Gold Resolver\Gold Resolver\obj\Debug\Gold Resolver.TrustInfo.xml
+D:\Fichier\Development\Projet VS\Csharp\C\Gold Resolver\Gold Resolver\Gold Resolver\obj\Debug\Gold Resolver.exe.manifest
+D:\Fichier\Development\Projet VS\Csharp\C\Gold Resolver\Gold Resolver\Gold Resolver\obj\Debug\Gold Resolver.application
+D:\Fichier\Development\Projet VS\Csharp\C\Gold Resolver\Gold Resolver\Gold Resolver\obj\Debug\Gold Resolver.csproj.CopyComplete
+D:\Fichier\Development\Projet VS\Csharp\C\Gold Resolver\Gold Resolver\Gold Resolver\obj\Debug\Gold Resolver.exe
+D:\Fichier\Development\Projet VS\Csharp\C\Gold Resolver\Gold Resolver\Gold Resolver\obj\Debug\Gold Resolver.pdb
+D:\Fichier\Development\Projet VS\Csharp\C\Gold Resolver\Source\Gold Resolver\obj\Debug\Gold Resolver.csprojAssemblyReference.cache
+D:\Fichier\Development\Projet VS\Csharp\C\Gold Resolver\Source\Gold Resolver\obj\Debug\Gold_Resolver.CloudFlareResolver.resources
+D:\Fichier\Development\Projet VS\Csharp\C\Gold Resolver\Source\Gold Resolver\obj\Debug\Gold_Resolver.DNSResolver.resources
+D:\Fichier\Development\Projet VS\Csharp\C\Gold Resolver\Source\Gold Resolver\obj\Debug\Gold_Resolver.emailchecker.resources
+D:\Fichier\Development\Projet VS\Csharp\C\Gold Resolver\Source\Gold Resolver\obj\Debug\Gold_Resolver.emailtoskype.resources
+D:\Fichier\Development\Projet VS\Csharp\C\Gold Resolver\Source\Gold Resolver\obj\Debug\Gold_Resolver.Form1.resources
+D:\Fichier\Development\Projet VS\Csharp\C\Gold Resolver\Source\Gold Resolver\obj\Debug\Gold_Resolver.ipgeo.resources
+D:\Fichier\Development\Projet VS\Csharp\C\Gold Resolver\Source\Gold Resolver\obj\Debug\Gold_Resolver.iplogger.resources
+D:\Fichier\Development\Projet VS\Csharp\C\Gold Resolver\Source\Gold Resolver\obj\Debug\Gold_Resolver.iptoskype.resources
+D:\Fichier\Development\Projet VS\Csharp\C\Gold Resolver\Source\Gold Resolver\obj\Debug\Gold_Resolver.paneldefaut.resources
+D:\Fichier\Development\Projet VS\Csharp\C\Gold Resolver\Source\Gold Resolver\obj\Debug\Gold_Resolver.plan.resources
+D:\Fichier\Development\Projet VS\Csharp\C\Gold Resolver\Source\Gold Resolver\obj\Debug\Gold_Resolver.Properties.Resources.resources
+D:\Fichier\Development\Projet VS\Csharp\C\Gold Resolver\Source\Gold Resolver\obj\Debug\Gold_Resolver.questionform.resources
+D:\Fichier\Development\Projet VS\Csharp\C\Gold Resolver\Source\Gold Resolver\obj\Debug\Gold_Resolver.Resolvedatabase.resources
+D:\Fichier\Development\Projet VS\Csharp\C\Gold Resolver\Source\Gold Resolver\obj\Debug\Gold_Resolver.skypetoip.resources
+D:\Fichier\Development\Projet VS\Csharp\C\Gold Resolver\Source\Gold Resolver\obj\Debug\Gold_Resolver.userinfosform.resources
+D:\Fichier\Development\Projet VS\Csharp\C\Gold Resolver\Source\Gold Resolver\obj\Debug\Gold_Resolver.website.resources
+D:\Fichier\Development\Projet VS\Csharp\C\Gold Resolver\Source\Gold Resolver\obj\Debug\Gold_Resolver.WebsiteHeaders.resources
+D:\Fichier\Development\Projet VS\Csharp\C\Gold Resolver\Source\Gold Resolver\obj\Debug\Gold_Resolver.websitepetit.resources
+D:\Fichier\Development\Projet VS\Csharp\C\Gold Resolver\Source\Gold Resolver\obj\Debug\Gold Resolver.csproj.GenerateResource.cache
+D:\Fichier\Development\Projet VS\Csharp\C\Gold Resolver\Source\Gold Resolver\obj\Debug\Gold Resolver.csproj.CoreCompileInputs.cache
+D:\Fichier\Development\Projet VS\Csharp\C\Gold Resolver\Source\Gold Resolver\obj\Debug\Gold Resolver.exe
+D:\Fichier\Development\Projet VS\Csharp\C\Gold Resolver\Source\Gold Resolver\obj\Debug\Gold Resolver.pdb
